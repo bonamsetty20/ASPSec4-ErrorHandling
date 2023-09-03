@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPSec4-ErrorHandling.props" />
+</Project>
